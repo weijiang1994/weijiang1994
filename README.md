@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi I am Weijiang 👋
+[![Weijiang's github stats](https://github-readme-stats.vercel.app/api?username=weijiang1994)](https://github.com/weijiang1994/github-readme-stats)
 <!--
 **weijiang1994/weijiang1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
