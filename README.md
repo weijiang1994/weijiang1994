@@ -1,4 +1,10 @@
 ### Hi I am Weijiang 👋
+---
+###### I am a pythonic coder! Love and Peace!
+1. **blog**:http://2dogz.cn
+2. **email**:weijiang1994_1@qq.com
+3. **wechat**:jw804022023
+
 [![Weijiang's github stats](https://github-readme-stats.vercel.app/api?username=weijiang1994)](https://github.com/weijiang1994/github-readme-stats)
 <!--
 **weijiang1994/weijiang1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
