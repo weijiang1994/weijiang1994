@@ -1,9 +1,13 @@
 ### Hi I am Weijiang 👋
 ---
 ###### I am a pythonic coder! Love and Peace!
-1. **blog**:http://2dogz.cn
-2. **email**:weijiang1994_1@qq.com
-3. **wechat**:jw804022023
+- 🔭 I’m currently working on my project of blogin
+- 🌱 I’m currently learning Javascript
+
+**Contact me**
+- **blog**:http://2dogz.cn
+- **email**:weijiang1994_1@qq.com
+- **wechat**:jw804022023
 
 [![Weijiang's github stats](https://github-readme-stats.vercel.app/api?username=weijiang1994&show_icons=true&theme=dark)](https://github.com/weijiang1994/github-readme-stats)
 <!--
