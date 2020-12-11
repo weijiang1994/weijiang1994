@@ -1,7 +1,7 @@
 ### Hi I am Weijiang 👋
 ---
 ###### I am a pythonic coder! Love and Peace!
-- 🔭 I’m currently working on my project of blogin
+- 🔭 I’m currently working on my project of [university-bbs](https://github.com/weijiang1994/university-bbs)
 - 🌱 I’m currently learning Javascript
 
 **Contact me**
