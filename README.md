@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=alphajc&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=weijiang1994&theme=dark&column=7&margin-w=10" alt="logo" height="160" align="center" />
