@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Javascript
 
 **Contact me**
-- **blog**:http://2dogz.cn
+- **blog**:https://2dogz.cn
 - **email**:weijiang1994_1@qq.com
 - **wechat**:jw804022023
 
@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-profile-trophy.vercel.app/?username=alphajc&theme=flat&column=7&margin-w=10" alt="logo" height="160" align="center" />
