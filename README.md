@@ -31,5 +31,8 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [[Leetcode][简单]设计停车系统](https://2dogz.cn//blog/article/1/)
+- [[应用部署]使用nginx、gunicorn部署项目](https://2dogz.cn//blog/article/2/)
+- [[应用部署]使用supervisor管理web应用出错重启等状态](https://2dogz.cn//blog/article/3/)
+- [[应用部署]使用gunicorn启动flask项目无法读取.env文件问题](https://2dogz.cn//blog/article/4/)
 <!-- BLOG-POST-LIST:END -->
