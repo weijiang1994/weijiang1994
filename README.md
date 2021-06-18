@@ -26,3 +26,15 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-profile-trophy.vercel.app/?username=weijiang1994&theme=dark&column=7&margin-w=10" alt="logo" height="160" align="center" />
+
+
+### 📝 Recent Posts
+[flask-githubcard简单使用介绍](https://2dogz.cn/blog/article/43/)
+
+[git不常用操作记录(2)](https://2dogz.cn/blog/article/42/)
+
+[Flask-Caching的简单应用](https://2dogz.cn/blog/article/41/)
+
+[使用Flask搭建一个校园论坛8-帖子评论](https://2dogz.cn/blog/article/40/)
+
+[Break the Cycle of Procrastination](https://2dogz.cn/blog/article/39/)
