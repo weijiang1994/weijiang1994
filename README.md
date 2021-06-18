@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
-- [[Leetcode][简单]设计停车系统](https://2dogz.cn//blog/article/1/)
-- [[应用部署]使用nginx、gunicorn部署项目](https://2dogz.cn//blog/article/2/)
-- [[应用部署]使用supervisor管理web应用出错重启等状态](https://2dogz.cn//blog/article/3/)
-- [[应用部署]使用gunicorn启动flask项目无法读取.env文件问题](https://2dogz.cn//blog/article/4/)
+- [[Python]flask-githubcard简单使用介绍](https://2dogz.cn//blog/article/43/)
+- [[Git]git不常用操作记录(2)](https://2dogz.cn//blog/article/42/)
+- [[Python]Flask-Caching的简单应用](https://2dogz.cn//blog/article/41/)
+- [[系列教程]使用Flask搭建一个校园论坛8-帖子评论](https://2dogz.cn//blog/article/40/)
+- [[好文收录]Break the Cycle of Procrastination](https://2dogz.cn//blog/article/39/)
 <!-- BLOG-POST-LIST:END -->
