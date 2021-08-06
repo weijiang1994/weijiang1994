@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Linux]Shell脚本相关记录](https://2dogz.cn/blog/article/45/)
 - [[陈词滥调]房子一定要买顶层](https://2dogz.cn/blog/article/44/)
 - [[Python]flask-githubcard简单使用介绍](https://2dogz.cn/blog/article/43/)
 - [[Git]git不常用操作记录(2)](https://2dogz.cn/blog/article/42/)
 - [[Python]Flask-Caching的简单应用](https://2dogz.cn/blog/article/41/)
-- [[系列教程]使用Flask搭建一个校园论坛8-帖子评论](https://2dogz.cn/blog/article/40/)
 <!-- BLOG-POST-LIST:END -->
