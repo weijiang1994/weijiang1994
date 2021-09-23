@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python]Flask模板全局变量以及自定义过滤器](https://2dogz.cn/blog/article/47/)
 - [[Linux]SSH遭遇暴力破解简单解决方案](https://2dogz.cn/blog/article/46/)
 - [[Linux]Shell脚本相关记录](https://2dogz.cn/blog/article/45/)
 - [[Python]flask-githubcard简单使用介绍](https://2dogz.cn/blog/article/43/)
 - [[Git]git不常用操作记录(2)](https://2dogz.cn/blog/article/42/)
-- [[Python]Flask-Caching的简单应用](https://2dogz.cn/blog/article/41/)
 <!-- BLOG-POST-LIST:END -->
