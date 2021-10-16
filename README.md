@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 - [[Python]Flask模板全局变量以及自定义过滤器](https://2dogz.cn/blog/article/47/)
 - [[Linux]SSH遭遇暴力破解简单解决方案](https://2dogz.cn/blog/article/46/)
 - [[Linux]Shell脚本相关记录](https://2dogz.cn/blog/article/45/)
-- [[Python]flask-githubcard简单使用介绍](https://2dogz.cn/blog/article/43/)
+- [[陈词滥调]房子一定要买顶层](https://2dogz.cn/blog/article/44/)
 <!-- BLOG-POST-LIST:END -->
