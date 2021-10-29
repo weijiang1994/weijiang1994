@@ -1,4 +1,5 @@
-### Hi I am Weijiang 👋
+### Hi I am Weijiang 👋 
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=weijiang1994.weijiang1994&style=flat-square&color=0088cc)
 ---
 ###### I am a pythonic coder! Love and Peace!
 - 🔭 I’m currently working on my project of [university-bbs](https://github.com/weijiang1994/university-bbs)
