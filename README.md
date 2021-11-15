@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python]PIL图片添加文本时自动换行解决方案](https://2dogz.cn/blog/article/50/)
 - [[Python]web2py的一些不常用的配置记录](https://2dogz.cn/blog/article/49/)
 - [[系列教程]使用Flask搭建一个校园论坛9-支持Markdown语法](https://2dogz.cn/blog/article/48/)
 - [[Python]Flask模板全局变量以及自定义过滤器](https://2dogz.cn/blog/article/47/)
 - [[Linux]SSH遭遇暴力破解简单解决方案](https://2dogz.cn/blog/article/46/)
-- [[Linux]Shell脚本相关记录](https://2dogz.cn/blog/article/45/)
 <!-- BLOG-POST-LIST:END -->
