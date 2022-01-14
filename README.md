@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Linux]Linux关于磁盘备份dd命令以及fstab文件简介](https://2dogz.cn/blog/article/52/)
-- [[Python]MySQL5.7版本后GROUP BY问题](https://2dogz.cn/blog/article/51/)
+- [[MySQL]MySQL5.7版本后GROUP BY问题](https://2dogz.cn/blog/article/51/)
 - [[Python]PIL图片添加文本时自动换行解决方案](https://2dogz.cn/blog/article/50/)
 - [[Python]web2py的一些不常用的配置记录](https://2dogz.cn/blog/article/49/)
 - [[系列教程]使用Flask搭建一个校园论坛9-支持Markdown语法](https://2dogz.cn/blog/article/48/)
