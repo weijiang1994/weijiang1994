@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python]Flask-SQLAlchemy一些高级用法记录&lpar;2&rpar;](https://2dogz.cn/blog/article/59/)
 - [[陈词滥调]2022年度总结](https://2dogz.cn/blog/article/58/)
 - [[Python]Flask-SQLAlchemy一些高级用法记录](https://2dogz.cn/blog/article/57/)
 - [[应用部署]使用Docker部署flask应用](https://2dogz.cn/blog/article/56/)
 - [[系列教程]使用Flask搭建一个校园论坛10-个人中心（1）](https://2dogz.cn/blog/article/55/)
-- [[Python]flask-babel在工厂模式下的使用](https://2dogz.cn/blog/article/54/)
 <!-- BLOG-POST-LIST:END -->
