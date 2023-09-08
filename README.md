@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 <img src="https://github-profile-trophy.vercel.app/?username=weijiang1994&theme=dark&column=7&margin-w=10" alt="logo" height="160" align="center" />
 
+## Contribution Map
+
+<a href="https://github.com/weijiang1994">
+  <img src="https://contribution.catsjuice.com/_/weijiang1994?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&colors=583EBB,626DF7,469EF9,22C2E0,51D5AC,BDD353,FED152,FBFC27" width="50%" />
+</a>
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
