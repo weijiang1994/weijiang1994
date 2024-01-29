@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python]web2py创建数据库表增加自动创建普通索引功能](https://2dogz.cn/blog/article/61/)
 - [[Git]Gerrit接口使用说明](https://2dogz.cn/blog/article/60/)
 - [[Python]Flask-SQLAlchemy一些高级用法记录&lpar;2&rpar;](https://2dogz.cn/blog/article/59/)
 - [[陈词滥调]2022年度总结](https://2dogz.cn/blog/article/58/)
 - [[Python]Flask-SQLAlchemy一些高级用法记录](https://2dogz.cn/blog/article/57/)
-- [[应用部署]使用Docker部署flask应用](https://2dogz.cn/blog/article/56/)
 <!-- BLOG-POST-LIST:END -->
