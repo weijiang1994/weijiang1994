@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 
 ### 📝 Recent Posts
 <!-- BLOG-POST-LIST:START -->
+- [[Python]组合优于继承：用 Python 讲清楚设计取舍](https://2dogz.cn/blog/article/65/)
 - [[Leetcode]Python上下文管理](https://2dogz.cn/blog/article/64/)
 - [[应用部署]gunicorn部署多进程不是flask应用无法刷新配置问题](https://2dogz.cn/blog/article/62/)
 - [[Python]web2py创建数据库表增加自动创建普通索引功能](https://2dogz.cn/blog/article/61/)
 - [[Git]Gerrit接口使用说明](https://2dogz.cn/blog/article/60/)
-- [[Python]Flask-SQLAlchemy一些高级用法记录&lpar;2&rpar;](https://2dogz.cn/blog/article/59/)
 <!-- BLOG-POST-LIST:END -->
